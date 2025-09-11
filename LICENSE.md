@@ -3,7 +3,8 @@
 © 2025 Mikael Andri Ingason
 
 You are allowed to:
-- Download and play this game for personal, non-commercial use.
+- Download and play this game for personal use.
+- Record, stream, and share gameplay.
 
 You are **not allowed** to:
 - Sell, redistribute, or rehost the game files.
